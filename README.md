@@ -1,4 +1,4 @@
-# Gubera Multi-Tenant E-Commerce Backend
+#  Multi-Tenant E-Commerce Backend
 
 Gubera is a production-level, highly scalable multi-tenant E-Commerce backend built using **FastAPI**, **Strawberry GraphQL**, **PostgreSQL** (SQLAlchemy Async), **MongoDB** (Beanie ODM), and **Redis** (Async caching/rate limiting).
 
